@@ -191,9 +191,11 @@ export const Footer = () => {
                 <span>
                   Trichy Coworks,
                   <br />
-                  4th Street, Amman Nagar, Kattur,
+                  4th Street, Amman Nagar
                   <br />
-                  Tiruchirappalli, Tamil Nadu 620019
+                  Kattur, Tiruchirappalli
+                  <br/>
+                  Tamil Nadu 620019
                 </span>
               </li>
               <li className="flex items-center space-x-2">
