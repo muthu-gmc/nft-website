@@ -108,16 +108,31 @@ export const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 mt-1 text-orange-600 flex-shrink-0" />
-                <span>123 Tech Drive, Suite 400, Innovation City, CA 90210</span>
+               <span>
+  Trichy Coworks,<br />
+  4th Street, Amman Nagar, Kattur,<br />
+  Tiruchirappalli, Tamil Nadu 620019
+</span>
+
               </li>
+    <li className="flex items-center space-x-2">
+  <Mail className="w-4 h-4 text-orange-600 flex-shrink-0" />
+  <Link
+    href="mailto:info@nexaformtech.com"
+    className="hover:text-white transition-colors"
+  >
+    info@nexaformtech.com
+  </Link>
+</li>
+
+
               <li className="flex items-center space-x-2">
-                <Mail className="w-4 h-4 text-orange-600 flex-shrink-0" />
-                <Link href="mailto:info@nexaform.com" className="hover:text-white transition-colors">info@nexaform.com</Link>
-              </li>
-              <li className="flex items-center space-x-2">
-                <Phone className="w-4 h-4 text-orange-600 flex-shrink-0" />
-                <Link href="tel:+15551234567" className="hover:text-white transition-colors">+1 (555) 123-4567</Link>
-              </li>
+  <Phone className="w-4 h-4 text-orange-600 flex-shrink-0" />
+  <Link href="tel:+919843922043" className="hover:text-white transition-colors">
+    +91 98439 22043
+  </Link>
+</li>
+
             </ul>
           </div>
 
