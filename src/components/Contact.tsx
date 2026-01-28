@@ -6,7 +6,7 @@ const contactDetails = [
   {
     icon: Phone,
     title: 'Phone Number',
-    value: '+1 (555) 123-4567',
+    value: '+91 98439 22043',
     href: 'tel:+9112345678976',
   },
   {
@@ -16,11 +16,12 @@ const contactDetails = [
     href: 'mailto:example@gmail.com',
   },
   {
-    icon: MapPin,
-    title: 'Location',
-    value: '123 Tech Drive, Suite 400, Innovation City, CA 90210',
-    href: 'https://maps.app.goo.gl/', // Placeholder map link
-  },
+  icon: MapPin,
+  title: 'Location',
+  value: 'Trichy Coworks, 4th Street, Amman Nagar, Kattur, Tiruchirappalli, Tamil Nadu 620019',
+  href: 'https://maps.app.goo.gl/', 
+},
+
 ];
 
 const Contact = () => {
