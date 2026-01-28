@@ -12,7 +12,7 @@ const contactDetails = [
   {
     icon: Mail,
     title: 'Email Address',
-    value: 'info@nexaform.com',
+    value: 'info@nexaformtech.com',
     href: 'mailto:example@gmail.com',
   },
   {
