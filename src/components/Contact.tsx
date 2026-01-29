@@ -15,12 +15,12 @@ const contactDetails = [
     value: 'info@nexaformtech.com',
     href: 'mailto:example@gmail.com',
   },
-  {
-  icon: MapPin,
-  title: 'Location',
-  value: 'Trichy Coworks, 4th Street, Amman Nagar, Kattur, Tiruchirappalli, Tamil Nadu 620019',
-  href: 'https://maps.app.goo.gl/', 
-},
+//   {
+//   icon: MapPin,
+//   title: 'Location',
+//   value: 'Trichy Coworks, 4th Street, Amman Nagar, Kattur, Tiruchirappalli, Tamil Nadu 620019',
+//   href: 'https://maps.app.goo.gl/', 
+// },
 
 ];
 
