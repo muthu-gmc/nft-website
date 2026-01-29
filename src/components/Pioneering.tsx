@@ -17,7 +17,7 @@ const Pioneering = () => {
           <div className="lg:order-1 order-1">
             <div className="relative w-full h-[450px]">
               <Image
-                src="/assets/worker-in-a-facility.png"
+                src="/assets/pioneering-worker-ai.jpg"
                 alt="Engineer with smart glasses"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -41,6 +41,7 @@ const Pioneering = () => {
               We Provide Practical Solutions Developed By Experts Who Have Navigated The Complexities
               Of Operations Firsthand.
             </p>
+
             {/* CTA Button */}
             <Link href="#Contact" passHref>
               <button className="px-8 py-3 rounded-lg text-white text-lg font-semibold bg-orange-600 transition duration-300 hover:bg-orange-700 shadow-md">
@@ -52,7 +53,7 @@ const Pioneering = () => {
           <div className="lg:order-3 order-2">
             <div className="relative w-full h-[600px] lg:mt-[-40px]">
               <Image
-                src="/assets/Engineer-with-tablet.png"
+                src="/assets/pioneering-engineer-ai.jpg"
                 alt="Two professionals walking through a warehouse"
                 fill
                 style={{ objectFit: 'cover' }}

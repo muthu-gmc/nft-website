@@ -19,7 +19,7 @@ const Hero = () => {
           >
             {/* Background Image: Assumes hero-bg.png is in public/assets */}
             <Image
-              src="/assets/hero-bg.png" 
+              src="/assets/hero-bg-ai.jpg" 
               alt="Engineer with hard hat and safety glasses"
               fill
               style={{ objectFit: 'cover' }}

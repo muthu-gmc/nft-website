@@ -6,7 +6,7 @@ const Authority = () => {
     // Section container - Relative position for the background image and overlay
     <section className="relative w-full min-h-[700px] flex items-center py-10 lg:py-0 overflow-hidden bg-black text-white">
       <Image
-        src="/assets/Authority-bg.png"
+        src="/assets/Authority-bg.jpg"
         alt="Engineer working on a computer in a factory environment"
         fill
         style={{ objectFit: 'cover' }}
