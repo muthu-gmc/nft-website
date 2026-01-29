@@ -3,12 +3,12 @@ import Link from 'next/link';
 
 // Data for the contact details column
 const contactDetails = [
-  {
-    icon: Phone,
-    title: 'Phone Number',
-    value: '+91 98439 22043',
-    href: 'tel:+9112345678976',
-  },
+  // {
+  //   icon: Phone,
+  //   title: 'Phone Number',
+  //   value: '+91 98439 22043',
+  //   href: 'tel:+9112345678976',
+  // },
   {
     icon: Mail,
     title: 'Email Address',
