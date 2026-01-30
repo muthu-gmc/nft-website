@@ -3,24 +3,24 @@ import Link from 'next/link';
 
 // Data for the contact details column
 const contactDetails = [
-  {
-    icon: Phone,
-    title: 'Phone Number',
-    value: '+91 98439 22043',
-    href: 'tel:+9112345678976',
-  },
+  // {
+  //   icon: Phone,
+  //   title: 'Phone Number',
+  //   value: '+91 98439 22043',
+  //   href: 'tel:+9112345678976',
+  // },
   {
     icon: Mail,
     title: 'Email Address',
-    value: 'info@nexaform.com',
+    value: 'info@nexaformtech.com',
     href: 'mailto:example@gmail.com',
   },
-  {
-  icon: MapPin,
-  title: 'Location',
-  value: 'Trichy Coworks, 4th Street, Amman Nagar, Kattur, Tiruchirappalli, Tamil Nadu 620019',
-  href: 'https://maps.app.goo.gl/', 
-},
+//   {
+//   icon: MapPin,
+//   title: 'Location',
+//   value: 'Trichy Coworks, 4th Street, Amman Nagar, Kattur, Tiruchirappalli, Tamil Nadu 620019',
+//   href: 'https://maps.app.goo.gl/', 
+// },
 
 ];
 

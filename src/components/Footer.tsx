@@ -208,7 +208,7 @@ export const Footer = () => {
                 </Link>
               </li>
 
-              <li className="flex items-center space-x-2">
+              {/* <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-orange-600 flex-shrink-0" />
                 <Link
                   href="tel:+919843922043"
@@ -216,7 +216,7 @@ export const Footer = () => {
                 >
                   +91 98439 22043
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

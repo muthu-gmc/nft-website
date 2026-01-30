@@ -1,4 +1,4 @@
-import { User, ClipboardList, Users } from 'lucide-react';
+import { User, ClipboardList, Users, Settings, Smartphone, Layers } from 'lucide-react';
 
 // Interface for a single benefit card
 interface Benefit {
@@ -32,6 +32,34 @@ const benefits: Benefit[] = [
       'We Are Not Just A Service Provider; We Are A Collaborator. Our Enduring Partnerships, Leadership Within The Community, And Steadfast Assistance Demonstrate A Profound Dedication To Our Clients’ Success That Newcomers Cannot Replicate.',
     subtext:
       'Years Of Reliable Partnerships And An International Team Committed To Your Operational Success.',
+  },
+
+  //  NEW – SERVICES
+  {
+    icon: Settings,
+    title: 'MAXIMO SUPPORT & ENHANCEMENTS',
+    description:
+      'Nexaform Provides Comprehensive IBM Maximo Support, Enhancements, And Continuous Improvements To Ensure Asset-Intensive Organizations Operate At Peak Efficiency And Reliability.',
+    subtext:
+      'Proven Expertise In Supporting And Enhancing Enterprise Asset Management Platforms.',
+  },
+  {
+    icon: Smartphone,
+    title: 'INTEGRATION & MOBILE DEVELOPMENT',
+    description:
+      'We Deliver Robust System Integrations And Enterprise Mobile Application Development That Seamlessly Connect Asset Management Systems With Business Operations.',
+    subtext:
+      'Secure, Scalable Integrations And Mobile Solutions Designed For Enterprise Environments.',
+  },
+
+  //  NEW – PRODUCTS
+  {
+    icon: Layers,
+    title: 'INTEGRATION PLATFORM & VENDOR PORTAL',
+    description:
+      'Our Products Include A Powerful Integration Platform And A Vendor Registration Portal With Built-In Integration Services, Enabling Streamlined Collaboration And Data Exchange.',
+    subtext:
+      'Enterprise-Grade Products Designed To Simplify Integration And Vendor Management.',
   },
 ];
 
