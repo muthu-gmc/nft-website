@@ -34,7 +34,7 @@ const benefits: Benefit[] = [
       'Years Of Reliable Partnerships And An International Team Committed To Your Operational Success.',
   },
 
-  // ✅ NEW – SERVICES
+  //  NEW – SERVICES
   {
     icon: Settings,
     title: 'MAXIMO SUPPORT & ENHANCEMENTS',
@@ -52,7 +52,7 @@ const benefits: Benefit[] = [
       'Secure, Scalable Integrations And Mobile Solutions Designed For Enterprise Environments.',
   },
 
-  // ✅ NEW – PRODUCTS
+  //  NEW – PRODUCTS
   {
     icon: Layers,
     title: 'INTEGRATION PLATFORM & VENDOR PORTAL',
